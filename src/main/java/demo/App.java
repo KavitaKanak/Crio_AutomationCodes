@@ -12,12 +12,15 @@ public class App {
         //TODO: call your test case functions one after other here
 
         //tests.testCase01();
-        SearchAmazon sa = new SearchAmazon();
-        sa.testCase01();
+        // SearchAmazon sa = new SearchAmazon();
+        // sa.testCase01();
         
+        CountHyperlinks ch = new CountHyperlinks();
+        ch.testCase01();
 
         //END Tests
-        sa.endTest();
+        //sa.endTest();
+        ch.endTest();
 
 
         //tests.endTest(); // End your test by clearning connections and closing browser
