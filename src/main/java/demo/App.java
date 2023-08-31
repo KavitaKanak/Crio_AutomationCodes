@@ -15,12 +15,32 @@ public class App {
         // SearchAmazon sa = new SearchAmazon();
         // sa.testCase01();
         
-        CountHyperlinks ch = new CountHyperlinks();
-        ch.testCase01();
+        // CountHyperlinks ch = new CountHyperlinks();
+        // ch.testCase01();
+
+        // Linkedin li = new Linkedin();
+        // li.testCase01();
+
+        // ImageUrls iu = new ImageUrls();
+        // iu.testCase01();
+
+        // NestedFrames nf = new NestedFrames();
+        // nf.testCase01();
+
+        // WindowHandle wh = new WindowHandle();
+        // wh.testCase01();
+
+        // ImdbRatings rating = new ImdbRatings();
+        // rating.testCase01();
 
         //END Tests
         //sa.endTest();
-        ch.endTest();
+        // ch.endTest();
+        // li.endTest();
+        // iu.endTest();
+        // nf.endTest();
+        // wh.endTest();
+        // rating.endTest();
 
 
         //tests.endTest(); // End your test by clearning connections and closing browser
