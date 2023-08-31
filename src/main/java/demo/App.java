@@ -24,8 +24,8 @@ public class App {
         // ImageUrls iu = new ImageUrls();
         // iu.testCase01();
 
-        // NestedFrames nf = new NestedFrames();
-        // nf.testCase01();
+        NestedFrames nf = new NestedFrames();
+        nf.testCase01();
 
         // WindowHandle wh = new WindowHandle();
         // wh.testCase01();
@@ -38,7 +38,7 @@ public class App {
         // ch.endTest();
         // li.endTest();
         // iu.endTest();
-        // nf.endTest();
+        nf.endTest();
         // wh.endTest();
         // rating.endTest();
 
